@@ -1,3 +1,0 @@
-## Git project
-
-changed readme
